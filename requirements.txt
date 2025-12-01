@@ -1,0 +1,2 @@
+# Monarch V10.5
+# Core kernel requires no external dependencies.
